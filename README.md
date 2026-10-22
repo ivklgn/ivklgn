@@ -4,6 +4,11 @@
 
 🔭 I’m currently working on [Archcore](https://archcore.ai) - help teams and solo developers create effecient and strict context in repos. You can check here https://archcore.ai/.
 
+Projects:
+
+- [Archcore](https://github.com/archcore-ai/archcore): Spec-driven development and context engineering for coding agents
+- [Polybrief](https://github.com/ivklgn/polybrief): One brief, several AI coding agents, independent read-only answers
+
 <code>⌁&nbsp;tg&nbsp;·&nbsp;https://t.me/ivklgn_dev</code>  
 <code>⌁&nbsp;x&nbsp;·&nbsp;https://x.com/ivklgn</code>  
 <code>⌁&nbsp;threads&nbsp;·&nbsp;https://www.threads.com/@ivklgn</code>  
