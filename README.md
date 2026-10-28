@@ -8,6 +8,7 @@ Projects:
 
 - [Archcore](https://github.com/archcore-ai/archcore): Spec-driven development and context engineering for coding agents
 - [Polybrief](https://github.com/ivklgn/polybrief): One brief, several AI coding agents, independent read-only answers
+- [Polyship](https://github.com/ivklgn/polyship): Many AI coding agents on one repository, their branches land one at a time, tested
 
 <code>⌁&nbsp;tg&nbsp;·&nbsp;https://t.me/ivklgn_dev</code>  
 <code>⌁&nbsp;x&nbsp;·&nbsp;https://x.com/ivklgn</code>  
